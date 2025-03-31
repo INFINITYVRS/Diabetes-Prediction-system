@@ -1,0 +1,2 @@
+1. go to backend folder and run command: python app.py
+2. go to frontend folder and run command: npm run dev
