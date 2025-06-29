@@ -24,4 +24,7 @@ NeuroDiab is an Artificial Neural Network (ANN) powered web application designed
 - AUC-ROC: 0.862
 
 ## Installation and Setup
-
+- git clone https://github.com/INFINITYVRS/Diabetes-Prediction-system.git
+- cd Diabetes-Prediction-system
+- pip install -r requirements.txt
+- python app.py
